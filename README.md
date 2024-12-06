@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevParthh
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning Unity Engine
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me parththakur442@gmail.com
 - 😄 Pronouns: ...
